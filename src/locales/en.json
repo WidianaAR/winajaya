@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "products": "Products & Partners",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "cta": "Contact Us"
+  },
+  "home": {
+    "headline": "Fast, Accurate, and Reliable Heavy Equipment & Spare Parts Procurement",
+    "subheadline": "CV. Wina Jaya provides procurement, rental, repair, and delivery of heavy equipment and spare parts to support your business operations smoothly - ready 24/7.",
+    "cta_primary": "Consult Your Needs",
+    "cta_secondary": "View Our Services",
+    "features": {
+      "f1": "Flexible services, ready 24/7",
+      "f2": "Experienced in handling projects since 2019",
+      "f3": "Domestic and international procurement network",
+      "f4": "Trusted by State-Owned Enterprises and national scale companies"
+    },
+    "gallery_title": "Our Work Gallery"
+  },
+  "about": {
+    "title": "About Us",
+    "history": "CV. Wina Jaya was established in 2019 in Balikpapan by Widaningsih, starting from an office stationery business. Along with the increasing trust of clients and market needs, the company expanded its business lines into the procurement of heavy equipment, spare parts, and technical support services. We are committed to providing beneficial solutions for clients and the surrounding environment, prioritizing customer satisfaction through high quality and timely results.",
+    "vision_title": "Vision",
+    "vision": "To become a national and global scale company capable of competing professionally in the provision of goods and services with the best quality and high level of trust.",
+    "mission_title": "Mission",
+    "m1": "Provide solutions for the needs of goods, services, and other supporting needs.",
+    "m2": "Create new job opportunities for the surrounding community.",
+    "m3": "Carry out every job of supplying goods and services professionally and with high quality.",
+    "m4": "Provide benefits to all related parties and the surrounding environment.",
+    "advantages_title": "Our Advantages",
+    "a1": "Managed with clear vision and mission as well as a professional approach.",
+    "a2": "Supported by skilled and experienced human resources.",
+    "a3": "Flexible services ready to serve client needs 24 hours a day, 7 days a week.",
+    "a4": "Procurement network that reaches domestic to international markets.",
+    "team_title": "Our Team"
+  },
+  "services": {
+    "title": "Our Services",
+    "intro": "As your strategic business partner, CV. Wina Jaya provides comprehensive goods and services procurement designed to support non-stop operations. From heavy equipment units to the smallest spare parts details, we are here with real solutions.",
+    "items": {
+      "s1_title": "Heavy Equipment & Machinery Sales",
+      "s1_desc": "We procure heavy equipment units and industrial machinery in high-quality new or used (second-hand) conditions. Each used unit goes through a strict quality control inspection by experts to ensure maximum performance according to manufacturer standards. We tailor procurement to your project specifications and budget efficiency.",
+      "s2_title": "Heavy Equipment Rental",
+      "s2_desc": "Flexible solutions for your project fleet needs. We provide various types of ready-to-use heavy equipment for short-term rental systems (daily/weekly) as well as long-term contracts (monthly/yearly) complete with experienced operator support and regular maintenance guarantees.",
+      "s3_title": "Genuine Spare Parts Supply",
+      "s3_desc": "Downtime is the biggest obstacle. Therefore, we guarantee the availability of genuine parts and OEMs for various leading heavy equipment brands. Our main focus includes Cummins spare parts, Allison transmission components, and QSB 6.7 engine equipment with express delivery guarantees.",
+      "s4_title": "Periodic Service & Maintenance",
+      "s4_desc": "Our certified mechanic team is ready to provide preventive maintenance services directly at the project site (on-site). This regular maintenance aims to reduce sudden breakdowns, extend machine life, and keep operational efficiency optimal.",
+      "s5_title": "Total Overhaul & Reconditioning",
+      "s5_desc": "Restore declining engine performance to like-new condition. We provide comprehensive overhauls for heavy diesel engines and heavy-duty transmission systems (such as Allison MD 3000), using modern diagnostic equipment and original assembly standard precision.",
+      "s6_title": "Special Request Procurement",
+      "s6_desc": "If the item you need is highly specific or rare in the local market, our domestic and international procurement network is ready to find it. We handle the entire process of searching, negotiating, and shipping so you can focus on your core work.",
+      "s7_title": "Integrated Delivery & Logistics",
+      "s7_desc": "We ensure your order arrives on time and in perfect condition. Using land transportation fleets and trusted sea freight partnerships, we are able to reach deliveries to all corners of the archipelago, including hard-to-reach mining project locations.",
+      "s8_title": "Heavy Equipment Operator Training",
+      "s8_desc": "Reliable machines require capable operators. We facilitate operator training programs to improve technical skills, understanding of Occupational Health and Safety (HSE) procedures, and efficient and safe equipment operation methods."
+    },
+    "flow_title": "Order Flow",
+    "flow1_title": "Consultation & Needs Briefing",
+    "flow1_desc": "Our technical consulting team will have in-depth discussions to understand the specific specifications of the goods/services you need.",
+    "flow2_title": "Search & Procurement",
+    "flow2_desc": "We immediately search and procure goods from our trusted supplier network, both domestically and internationally.",
+    "flow3_title": "Delivery to Location",
+    "flow3_desc": "Goods are professionally packaged and shipped via land or sea routes until they safely arrive at your operational location.",
+    "warranty_title": "Warranty & After-Sales Service",
+    "w1": "Comprehensive Product Warranty: Valid for 3 months, providing full protection against manufacturing defects or discrepancies in item specifications.",
+    "w2": "Service & Repair Warranty: Valid for 1 month to ensure our technical work operates perfectly."
+  },
+  "products": {
+    "title": "Products & Partnerships Catalog",
+    "intro": "Full support for the smooth running of your operations is our priority. We supply the best heavy equipment products and spare parts that have proven durability in various extreme mining and construction terrains.",
+    "categories_title": "Main Supply Categories",
+    "cat_heavy_machinery": "Heavy Machinery",
+    "cat_heavy_machinery_desc": "Providing Excavators, Bulldozers, Wheel Loaders, to Dump Trucks for various scales of construction and mining projects.",
+    "cat_engine_parts": "Engine Parts",
+    "cat_engine_parts_desc": "Vital engine parts such as Cylinders, Pistons, Injectors, and Turbochargers according to original manufacturer specifications.",
+    "cat_transmission": "Transmission Systems",
+    "cat_transmission_desc": "Keep power shifting smooth with quality Gearboxes, Transmission Filters, Torque Converters, and Special Oils.",
+    "cat_consumables": "Consumables",
+    "cat_consumables_desc": "Constant stock availability for Air/oil filters, Lubricants, Seal kits, V-Belts, and daily mechanic needs.",
+    "conditions_title": "Product Condition Flexibility",
+    "conditions": "We fully understand that every project has its own budget dynamics. Therefore, we provide flexible options in the form of units and spare parts in New (Genuine/OEM), Quality Used (Strictly inspected second-hand), and Rental options specifically for heavy equipment units.",
+    "featured_title": "Featured Specialty Products",
+    "featured_1_title": "Cummins Spare Parts",
+    "featured_1_desc": "The toughness of Cummins diesel engines is globally recognized. We have a direct supply chain to guarantee complete spare parts availability, ensuring your fleet engines continue to operate optimally without spare parts bottlenecks.",
+    "featured_2_title": "Engine QSB 6.7",
+    "featured_2_desc": "A highly versatile high-power engine for heavy-duty needs. We not only provide engine units, but full spare parts availability, as well as specialized installation and troubleshooting expertise for this tough series.",
+    "partners_title": "Strategic Partners & Trusted Brands",
+    "partner_altrac": "Leading provider of high-performance mining industry heavy equipment needs.",
+    "partner_allrig": "Specialist provider of rig components and other heavy-duty operational equipment.",
+    "partner_allison": "Manufacturer of heavy-duty automatic transmissions with uncompromising durability.",
+    "partner_hhtransindo": "Reliable logistics and forwarding partner for smooth and safe distribution to your location.",
+    "cta": "Do you have specific specifications, bulk requirement lists, or certain part numbers (PN) that are hard to find? Do not hesitate to immediately send them to our team for the best offer."
+  },
+  "portfolio": {
+    "title": "Clients & Work Experience",
+    "intro": "Since 2019, CV. Wina Jaya has served more than 5 companies with over 1,000 units/products successfully delivered. We serve State-Owned Enterprises (BUMN) and private companies, including PELINDO and PT Kaltim Kariangau Terminal.",
+    "stats": {
+      "years": "Years of Experience",
+      "clients": "Companies Served",
+      "units": "Units Delivered"
+    },
+    "featured_project_title": "Featured Project: PT Kaltim Kariangau Terminal",
+    "featured_project_desc": "The trust given by PT Kaltim Kariangau Terminal to handle the maintenance and renovation work of the KKT building with a project value of up to Rp1 billion.",
+    "scopes": {
+      "sc1": "Design & construction (office interior/exterior, building construction completion)",
+      "sc2": "Office operational needs (office supplies, electronics, clothing, etc.)",
+      "sc3": "HSE & technical support needs (PPE, lab equipment, telecommunications, electricity & water)",
+      "sc4": "Heavy equipment & transportation (supply/repair spare parts, lifting equipment)",
+      "sc5": "Large engine overhaul (Allison MD 3000 transmission, Volvo TWD1240VE engine, etc.)",
+      "sc6": "Other supporting services (catering for events)"
+    },
+    "other_projects_title": "Other Projects",
+    "op1_title": "PT RPP Mining Contractor",
+    "op1_desc": "Allison transmission repair for Terex TR60 truck units.",
+    "op2_title": "PT Kobexindo",
+    "op2_desc": "Supply of Allison transmission parts and filters."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address_title": "Address",
+    "address": "Jl. Karya Murni No. 34, RT. 66, Kel. Gunung Sari Ilir, Kec. Balikpapan Tengah, Balikpapan 76121, East Kalimantan, Indonesia",
+    "phone_title": "Phone",
+    "phone": "(0542) 850-5054 / 0813-4795-3737",
+    "email_title": "Email",
+    "email": "winajaya65@gmail.com",
+    "legal_title": "Legality",
+    "legal": "Officially registered - NIB 9120209261823",
+    "cta": "Send WhatsApp Message"
+  },
+  "footer": {
+    "desc": "Fast, Accurate, and Reliable Heavy Equipment & Spare Parts Procurement.",
+    "quick_links": "Quick Links",
+    "contact": "Contact Us",
+    "rights": "All Rights Reserved."
+  }
+}

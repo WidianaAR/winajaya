@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "products": "Produk & Mitra",
+    "portfolio": "Portofolio",
+    "contact": "Kontak",
+    "cta": "Hubungi Kami"
+  },
+  "home": {
+    "headline": "Solusi Pengadaan Alat Berat & Sparepart yang Cepat, Tepat, dan Terpercaya",
+    "subheadline": "CV. Wina Jaya melayani pengadaan, sewa, perbaikan, hingga pengiriman alat berat dan sparepart untuk mendukung kelancaran operasional bisnis Anda - siap sedia 24/7.",
+    "cta_primary": "Konsultasi Kebutuhan Anda",
+    "cta_secondary": "Lihat Layanan Kami",
+    "features": {
+      "f1": "Layanan fleksibel, siap melayani 24/7",
+      "f2": "Berpengalaman menangani proyek sejak 2019",
+      "f3": "Jaringan pengadaan domestik & internasional",
+      "f4": "Dipercaya oleh BUMN dan perusahaan skala nasional"
+    },
+    "gallery_title": "Galeri Pekerjaan Kami"
+  },
+  "about": {
+    "title": "Tentang Kami",
+    "history": "CV. Wina Jaya didirikan pada tahun 2019 di Balikpapan oleh Widaningsih, berawal dari usaha di bidang alat tulis kantor. Seiring bertambahnya kepercayaan klien dan kebutuhan pasar, perusahaan mengembangkan lini bisnisnya ke bidang pengadaan barang alat berat, sparepart, dan jasa teknis pendukung industri. Kami berkomitmen memberikan solusi yang bermanfaat bagi klien maupun lingkungan sekitar, dengan mengutamakan kepuasan pelanggan melalui hasil kerja yang berkualitas dan tepat waktu.",
+    "vision_title": "Visi",
+    "vision": "Menjadi perusahaan berskala nasional dan global yang mampu bersaing secara profesional dalam penyediaan barang dan jasa dengan kualitas terbaik dan tingkat kepercayaan tinggi.",
+    "mission_title": "Misi",
+    "m1": "Memberikan solusi atas kebutuhan barang, jasa, dan kebutuhan pendukung lainnya.",
+    "m2": "Membuka lapangan pekerjaan baru bagi masyarakat sekitar.",
+    "m3": "Menjalankan setiap pekerjaan supply barang dan jasa secara profesional dan berkualitas.",
+    "m4": "Memberikan manfaat bagi seluruh pihak terkait dan lingkungan sekitar.",
+    "advantages_title": "Keunggulan Kami",
+    "a1": "Dikelola dengan visi dan misi yang jelas serta pendekatan profesional.",
+    "a2": "Didukung sumber daya manusia yang ahli dan berpengalaman di bidangnya.",
+    "a3": "Layanan fleksibel dan siap melayani kebutuhan klien 24 jam sehari, 7 hari seminggu.",
+    "a4": "Jaringan pengadaan yang menjangkau pasar domestik hingga internasional.",
+    "team_title": "Tim Kami"
+  },
+  "services": {
+    "title": "Layanan Kami",
+    "intro": "Sebagai mitra strategis bisnis Anda, CV. Wina Jaya menyediakan layanan pengadaan barang dan jasa secara menyeluruh yang dirancang untuk mendukung operasional tanpa henti. Dari unit alat berat hingga detail sparepart terkecil, kami hadir dengan solusi nyata.",
+    "items": {
+      "s1_title": "Jual-Beli Alat Berat & Mesin",
+      "s1_desc": "Kami melayani pengadaan unit alat berat dan mesin industri dalam kondisi baru maupun bekas (second-hand) berkualitas. Setiap unit bekas melalui proses inspeksi ketat (quality control) oleh tenaga ahli untuk memastikan performa maksimal sesuai standar pabrikan. Kami menyesuaikan pengadaan dengan spesifikasi proyek dan efisiensi anggaran Anda.",
+      "s2_title": "Sewa/Rental Alat Berat",
+      "s2_desc": "Solusi fleksibel untuk kebutuhan armada proyek Anda. Kami menyediakan berbagai jenis alat berat siap pakai untuk sistem sewa jangka pendek (harian/mingguan) maupun kontrak jangka panjang (bulanan/tahunan) lengkap dengan dukungan operator berpengalaman dan jaminan pemeliharaan berkala.",
+      "s3_title": "Penyediaan Sparepart Genuine",
+      "s3_desc": "Downtime adalah hambatan terbesar. Oleh karena itu, kami menjamin ketersediaan suku cadang asli (genuine parts) dan OEM untuk berbagai merek alat berat terkemuka. Fokus utama kami meliputi sparepart Cummins, komponen transmisi Allison, serta perlengkapan engine QSB 6.7 dengan jaminan pengiriman ekspres.",
+      "s4_title": "Service & Maintenance Berkala",
+      "s4_desc": "Tim mekanik kami yang bersertifikat siap memberikan layanan perawatan pencegahan (preventive maintenance) langsung di lokasi proyek (on-site). Perawatan berkala ini bertujuan menekan angka kerusakan mendadak, memperpanjang usia pakai mesin, dan menjaga efisiensi operasional tetap optimal.",
+      "s5_title": "Overhaul & Rekondisi Total",
+      "s5_desc": "Mengembalikan performa mesin yang mulai menurun seperti kondisi baru. Kami melayani overhaul menyeluruh untuk mesin diesel berat dan sistem transmisi tugas berat (seperti Allison MD 3000), menggunakan peralatan diagnostik modern dan presisi standar perakitan asli.",
+      "s6_title": "Pengadaan Barang Spesifik Khusus",
+      "s6_desc": "Jika barang yang Anda butuhkan sangat spesifik atau langka di pasaran lokal, jaringan pengadaan domestik dan internasional kami siap mencarikannya. Kami menangani seluruh proses pencarian, negosiasi, hingga pengiriman agar Anda dapat berfokus pada pekerjaan inti.",
+      "s7_title": "Pengiriman & Logistik Terpadu",
+      "s7_desc": "Kami memastikan pesanan Anda tiba tepat waktu dan dalam kondisi sempurna. Menggunakan armada transportasi darat maupun kerja sama angkutan laut tepercaya, kami mampu menjangkau pengiriman ke seluruh pelosok Nusantara, termasuk lokasi proyek pertambangan yang sulit dijangkau.",
+      "s8_title": "Pelatihan Operator Alat Berat",
+      "s8_desc": "Mesin yang andal membutuhkan operator yang cakap. Kami memfasilitasi program pelatihan operator (operator training) untuk meningkatkan keahlian teknis, pemahaman tentang prosedur Keselamatan dan Kesehatan Kerja (K3), serta metode pengoperasian alat yang efisien dan aman."
+    },
+    "flow_title": "Alur Pemesanan",
+    "flow1_title": "Konsultasi & Briefing Kebutuhan",
+    "flow1_desc": "Tim konsultan teknis kami akan berdiskusi mendalam untuk memahami spesifikasi spesifik dari barang/jasa yang Anda butuhkan.",
+    "flow2_title": "Pencarian & Pengadaan Barang",
+    "flow2_desc": "Kami segera mencari dan melakukan pengadaan barang dari jaringan pemasok terpercaya kami, baik dari dalam negeri maupun internasional.",
+    "flow3_title": "Pengiriman ke Lokasi",
+    "flow3_desc": "Barang dikemas dan dikirimkan secara profesional melalui jalur darat atau laut hingga tiba dengan aman di lokasi operasional Anda.",
+    "warranty_title": "Garansi & Layanan Purna Jual",
+    "w1": "Garansi Komprehensif Produk: Berlaku 3 bulan, memberikan perlindungan penuh terhadap cacat produksi atau ketidaksesuaian spesifikasi barang.",
+    "w2": "Garansi Jasa & Perbaikan: Berlaku 1 bulan untuk memastikan hasil pekerjaan teknis kami beroperasi dengan sempurna."
+  },
+  "products": {
+    "title": "Katalog Produk & Kemitraan",
+    "intro": "Dukungan penuh terhadap kelancaran operasional Anda adalah prioritas kami. Kami memasok produk-produk alat berat dan suku cadang terbaik yang telah teruji durabilitasnya di berbagai medan ekstrem pertambangan dan konstruksi.",
+    "categories_title": "Kategori Pasokan Utama",
+    "cat_heavy_machinery": "Unit Alat Berat (Heavy Machinery)",
+    "cat_heavy_machinery_desc": "Menyediakan Excavator, Bulldozer, Wheel Loader, hingga Dump Truck untuk berbagai skala proyek konstruksi dan pertambangan.",
+    "cat_engine_parts": "Komponen Mesin (Engine Parts)",
+    "cat_engine_parts_desc": "Suku cadang vital mesin seperti Silinder, Piston, Injector, dan Turbocharger asli spesifikasi pabrikan.",
+    "cat_transmission": "Sistem Transmisi",
+    "cat_transmission_desc": "Menjaga perpindahan daya tetap mulus dengan Gearbox, Filter Transmisi, Torque Converter, dan Oli Khusus bermutu.",
+    "cat_consumables": "Barang Habis Pakai (Consumables)",
+    "cat_consumables_desc": "Ketersediaan stok konstan untuk Filter udara/oli, Pelumas (Lubricants), Seal kit, V-Belt, dan kebutuhan harian mekanik.",
+    "conditions_title": "Fleksibilitas Kondisi Produk",
+    "conditions": "Kami sangat memahami bahwa setiap proyek memiliki dinamika anggaran tersendiri. Oleh karena itu, kami memberikan opsi fleksibel berupa unit dan suku cadang dalam kondisi Baru (Genuine/OEM), Bekas Berkualitas (Second-hand dengan inspeksi ketat), maupun opsi Sewa (Rental) khusus unit alat berat.",
+    "featured_title": "Produk Spesialisasi Unggulan",
+    "featured_1_title": "Suku Cadang Cummins",
+    "featured_1_desc": "Ketangguhan mesin diesel Cummins telah diakui secara global. Kami memiliki rantai pasokan langsung untuk menjamin ketersediaan sparepart lengkap, memastikan mesin armada Anda terus beroperasi maksimal tanpa hambatan suku cadang.",
+    "featured_2_title": "Engine QSB 6.7",
+    "featured_2_desc": "Mesin bertenaga tinggi yang sangat serbaguna untuk kebutuhan heavy-duty. Kami tidak hanya menyediakan unit mesin, melainkan ketersediaan suku cadang penuh, serta keahlian layanan instalasi dan troubleshooting khusus untuk seri tangguh ini.",
+    "partners_title": "Merek & Mitra Kerja Sama Strategis",
+    "partner_altrac": "Penyedia terkemuka untuk kebutuhan alat berat industri pertambangan berkinerja tinggi.",
+    "partner_allrig": "Spesialis penyedia komponen rig dan perlengkapan operasional kelas berat lainnya.",
+    "partner_allison": "Produsen transmisi otomatis tugas berat (Heavy-duty transmission) dengan daya tahan tanpa kompromi.",
+    "partner_hhtransindo": "Mitra logistik dan ekspedisi andalan untuk kelancaran distribusi aman hingga ke lokasi Anda.",
+    "cta": "Apakah Anda memiliki spesifikasi khusus, daftar kebutuhan bulk, atau part number (PN) tertentu yang sedang sulit dicari? Jangan ragu untuk segera mengirimkannya kepada tim kami untuk penawaran terbaik."
+  },
+  "portfolio": {
+    "title": "Klien & Pengalaman Kerja",
+    "intro": "Sejak tahun 2019, CV. Wina Jaya telah melayani lebih dari 5 perusahaan dengan lebih dari 1.000 unit/produk berhasil dikirimkan. Kami melayani perusahaan BUMN dan swasta, di antaranya PELINDO dan PT Kaltim Kariangau Terminal.",
+    "stats": {
+      "years": "Tahun Pengalaman",
+      "clients": "Perusahaan Terlayani",
+      "units": "Unit Terkirim"
+    },
+    "featured_project_title": "Proyek Unggulan: PT Kaltim Kariangau Terminal",
+    "featured_project_desc": "Kepercayaan yang diberikan oleh PT Kaltim Kariangau Terminal untuk menangani pekerjaan pemeliharaan dan renovasi gedung KKT dengan nilai proyek mencapai Rp1 miliar.",
+    "scopes": {
+      "sc1": "Desain & konstruksi (office interior/exterior, penyelesaian konstruksi)",
+      "sc2": "Kebutuhan operasional kantor (perlengkapan kantor, elektronik, pakaian, dll)",
+      "sc3": "Kebutuhan K3 & teknis pendukung (APD, alat lab, telekomunikasi, listrik & air)",
+      "sc4": "Alat berat & transportasi (supply/repair suku cadang, alat angkat-angkut)",
+      "sc5": "Overhaul mesin besar (transmisi Allison MD 3000, engine Volvo TWD1240VE, dll)",
+      "sc6": "Layanan pendukung lain (jasa boga event)"
+    },
+    "other_projects_title": "Proyek Lainnya",
+    "op1_title": "PT RPP Mining Contractor",
+    "op1_desc": "Perbaikan (repair) transmisi Allison untuk unit truk Terex TR60.",
+    "op2_title": "PT Kobexindo",
+    "op2_desc": "Penyediaan (supply) part dan filter transmisi Allison."
+  },
+  "contact": {
+    "title": "Kontak Kami",
+    "address_title": "Alamat",
+    "address": "Jl. Karya Murni No. 34, RT. 66, Kel. Gunung Sari Ilir, Kec. Balikpapan Tengah, Balikpapan 76121, Kalimantan Timur, Indonesia",
+    "phone_title": "Telepon",
+    "phone": "(0542) 850-5054 / 0813-4795-3737",
+    "email_title": "Email",
+    "email": "winajaya65@gmail.com",
+    "legal_title": "Legalitas",
+    "legal": "Terdaftar resmi - NIB 9120209261823",
+    "cta": "Kirim Pesan WhatsApp"
+  },
+  "footer": {
+    "desc": "Solusi Pengadaan Alat Berat & Sparepart yang Cepat, Tepat, dan Terpercaya.",
+    "quick_links": "Tautan Cepat",
+    "contact": "Hubungi Kami",
+    "rights": "Hak Cipta Dilindungi."
+  }
+}
