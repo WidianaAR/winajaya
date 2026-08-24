@@ -249,7 +249,7 @@ export function Home() {
             ].map((img, idx) => (
               <div
                 key={idx}
-                className="overflow-hidden rounded-xl group relative shrink-0 w-[260px] md:w-[520px] h-[180px] md:h-[360px]"
+                className="overflow-hidden rounded-xl group relative shrink-0 w-[260px] md:w-[520px] h-[180px] md:h-[480px]"
               >
                 <img
                   src={img}
