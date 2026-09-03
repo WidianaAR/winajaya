@@ -15,16 +15,16 @@ export function Products() {
   return (
     <>
       <Helmet>
-        <title>CV. Wina Jaya - {t('nav.products')}</title>
+        <title>{`CV. Wina Jaya - ${t('nav.products')}`}</title>
         <meta name="description" content={t('products.intro')} />
       </Helmet>
 
       {/* Hero / Header */}
       <section className="relative pt-32 pb-20 md:py-32 overflow-hidden">
         <div className="absolute inset-0 z-0">
-          <img 
-            src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2070&auto=format&fit=crop" 
-            alt="Latar CV Wina Jaya" 
+          <img
+            src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2070&auto=format&fit=crop"
+            alt="Latar CV Wina Jaya"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-black/70"></div>
@@ -118,9 +118,9 @@ export function Products() {
                   <div className="w-full flex flex-col items-center">
                     <div className="w-full h-24 mb-4 bg-white rounded-xl border border-stone-200/80 flex items-center justify-center p-3 group-hover:border-primary/20 shadow-sm transition-colors">
                       {partner.logo ? (
-                        <img 
-                          src={partner.logo} 
-                          alt={partner.name} 
+                        <img
+                          src={partner.logo}
+                          alt={partner.name}
                           className="max-h-16 max-w-full object-contain group-hover:scale-105 transition-transform duration-300"
                         />
                       ) : (
@@ -141,7 +141,7 @@ export function Products() {
               </motion.div>
             ))}
           </div>
-          
+
           <div className="mt-20 text-center">
             <div className="inline-block bg-stone-50 p-8 md:p-12 rounded-2xl border border-stone-100 max-w-3xl mx-auto">
               <p className="text-lg text-slate-700 mb-8 leading-relaxed font-medium">{t('products.cta')}</p>

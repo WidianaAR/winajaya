@@ -22,7 +22,7 @@ export function Home() {
   return (
     <>
       <Helmet>
-        <title>CV. Wina Jaya - {t('nav.home')}</title>
+        <title>{`CV. Wina Jaya - ${t('nav.home')}`}</title>
         <meta name="description" content={t('home.headline')} />
       </Helmet>
 

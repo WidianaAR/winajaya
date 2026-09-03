@@ -12,16 +12,16 @@ export function Portfolio() {
   return (
     <>
       <Helmet>
-        <title>CV. Wina Jaya - {t('nav.portfolio')}</title>
+        <title>{`CV. Wina Jaya - ${t('nav.portfolio')}`}</title>
         <meta name="description" content={t('portfolio.intro')} />
       </Helmet>
 
       {/* Hero / Header */}
       <section className="relative pt-32 pb-20 md:py-32 overflow-hidden">
         <div className="absolute inset-0 z-0">
-          <img 
-            src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2070&auto=format&fit=crop" 
-            alt="Latar CV Wina Jaya" 
+          <img
+            src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2070&auto=format&fit=crop"
+            alt="Latar CV Wina Jaya"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-black/70"></div>

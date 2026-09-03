@@ -23,16 +23,16 @@ export function Services() {
   return (
     <>
       <Helmet>
-        <title>CV. Wina Jaya - {t('nav.services')}</title>
+        <title>{`CV. Wina Jaya - ${t('nav.services')}`}</title>
         <meta name="description" content={t('services.intro')} />
       </Helmet>
 
       {/* Hero / Header */}
       <section className="relative pt-32 pb-20 md:py-32 overflow-hidden">
         <div className="absolute inset-0 z-0">
-          <img 
-            src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2070&auto=format&fit=crop" 
-            alt="Latar CV Wina Jaya" 
+          <img
+            src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2070&auto=format&fit=crop"
+            alt="Latar CV Wina Jaya"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-black/70"></div>
@@ -54,7 +54,7 @@ export function Services() {
         <div className="container mx-auto px-4 md:px-6">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-10">
             {services.map((service, idx) => (
-              <motion.div 
+              <motion.div
                 key={service.id}
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
@@ -87,7 +87,7 @@ export function Services() {
           <div className="max-w-4xl mx-auto relative">
             {/* Connector Line */}
             <div className="hidden md:block absolute top-8 left-16 right-16 h-0.5 bg-slate-200"></div>
-            
+
             <div className="grid grid-cols-1 md:grid-cols-3 gap-12 relative z-10">
               {[1, 2, 3].map((step) => (
                 <div key={step} className="text-center">

@@ -19,7 +19,7 @@ export function About() {
   return (
     <>
       <Helmet>
-        <title>CV. Wina Jaya - {t('nav.about')}</title>
+        <title>{`CV. Wina Jaya - ${t('nav.about')}`}</title>
         <meta name="description" content={t('about.history')} />
       </Helmet>
 
